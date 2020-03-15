@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10248" started-at="2020-02-25T09:20:52Z" finished-at="2020-02-25T09:21:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10248" started-at="2020-02-25T09:20:52Z" finished-at="2020-02-25T09:21:02Z">
+      <class name="testpage.homepagetest">
+        <test-method status="PASS" signature="verifydressestab()[pri:0, instance:testpage.homepagetest@712625fd]" name="verifydressestab" duration-ms="4319" started-at="2020-02-25T09:20:52Z" finished-at="2020-02-25T09:20:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydressestab -->
+        <test-method status="PASS" signature="verifytshirtstab()[pri:0, instance:testpage.homepagetest@712625fd]" name="verifytshirtstab" duration-ms="3053" started-at="2020-02-25T09:20:56Z" finished-at="2020-02-25T09:20:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytshirtstab -->
+        <test-method status="PASS" signature="verifywomentab()[pri:0, instance:testpage.homepagetest@712625fd]" name="verifywomentab" duration-ms="2827" started-at="2020-02-25T09:20:59Z" finished-at="2020-02-25T09:21:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifywomentab -->
+      </class> <!-- testpage.homepagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
